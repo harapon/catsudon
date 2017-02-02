@@ -13,3 +13,5 @@ Catsudon is a Python software on GPS trajectory analysis.
 * matplotlib
 
 anaconda is useful.
+
+For using foursquare API, you need to make your client id and client secret id in [foursquare](https://developer.foursquare.com/)
